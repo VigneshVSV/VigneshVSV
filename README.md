@@ -37,4 +37,4 @@ These are just a few (there are some more). I have decent experience in scientif
 I studied B.Sc. Electrical Engineering and M.Sc. Applied Physics, I have tangible interests and growing knowledge outside of software as well, especially optics, laser physics, QM, statistical math, digital electronics & power electronics. But I usually like to use them to make scientific or engineering software, this is why I work in data-acquisition.  
 
 I have worked at LMU's Centre for Advanced Laser Applications on large system scientific automation & data-acquisition from March 2022 till Dec 2024. Some of my work & my colleagues' work was made open and its available here: [gitlab LRZ CALA Public](https://gitlab.lrz.de/cala-public). 
-Before this, I also did large system automation and data-acquisition during my two year project at Neyveli Lignite Corporation India. 
+Before this, I also did large system automation and data-acquisition during my two year project at Neyveli Lignite Corporation India from 2015-2017. 
