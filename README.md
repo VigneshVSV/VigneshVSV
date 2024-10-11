@@ -18,7 +18,7 @@ Currently:
 
 Even more importantly, currently I live in Munich & I am eligible for independent freelancing having lived here for some time and having a degree from a German University. 
 I am looking forward to support my tool hololinked in a more professional way by freelancing. If you use hololinked or considering to use it in your university, large or small 
-independent scientific experiments, R&D labs, hobbies or even commercial SCADA systems, consider donating (have your group donate) at least 1€ (or 1$ or ₹100). One-off donations are also greatly appreciated. In this way, 
+independent scientific experiments, R&D labs, hobbies or even commercial SCADA systems, consider donating (or have your group donate) at least 1€ (or 1$ or ₹100). One-off donations are also greatly appreciated. In this way, 
 this package & the associated tools can be developed and remain for free in open source in the long term so that your software doesn't get outdated. The further activities that are planned are:
 
 - Tangible documentation with a pedagogical technique of writing so that students, scientists & engineers in labs can learn this independently (apart from package docs)
