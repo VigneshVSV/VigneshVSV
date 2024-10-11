@@ -23,7 +23,7 @@ this package & the associated tools can be developed and remain for free in open
 
 - Tangible documentation with a pedagogical technique of writing so that students, scientists & engineers in labs can learn this independently (apart from package docs)
 - Device or Thing Catalog of existing implementations of vendor specific hardware (like camera from X manufacturuer) so that you can just copy code (will be hosted in the [project website](https://hololinked.dev/)) or pip install
-- Support for Thing directories where you can store information about an existing Thing, like a phone book (There are already projects and conceptual ideas out there which will be adapted)
+- Support for Thing directories where you can store information about an existing Thing, like a phone book or map of "what is running where?" (There are already projects and conceptual ideas out there which will be adapted)
 - PyQt based admin panels for those who dont wish to use web previews like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
 - Remote Start/Stop script automation tool (both PyQt and JavaScript based)
 - Smartphone app to control your things in a generic fashion, kind of like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
