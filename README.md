@@ -22,7 +22,7 @@ consider donating (or have your group donate) at least 1€ (or 1$ or ₹100). O
 this package & the associated tools can be developed and remain for free in open source in the long term so that your software doesn't get outdated. The further activities that are planned are:
 
 - Tangible documentation with a pedagogical technique of writing so that students, scientists & engineers in labs can learn this independently (apart from package docs)
-- Device or Thing Catalog of existing implementations so that you can just copy code (will be hosted in the [project website](https://hololinked.dev/)) or pip install
+- Device or Thing Catalog of existing implementations of vendor specific hardware (like camera from X manufacturuer) so that you can just copy code (will be hosted in the [project website](https://hololinked.dev/)) or pip install
 - Support for Thing directories where you can store information about an existing Thing, like a phone book (There are already projects and conceptual ideas out there which will be adapted)
 - PyQt based admin panels for those who dont wish to use web previews like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
 - Remote Start/Stop script automation tool (both PyQt and JavaScript based)
