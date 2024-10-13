@@ -9,10 +9,10 @@ Have a look at my "simple-to-use-yet-sophisticated-enough" server side data-acqu
 Currently:
 - I am working on [hololinked](https://github.com/VigneshVSV/hololinked), stabilising it & augmenting it with all the tools necessary to thoroughly carry out data-acquisition
 - I am learning [W3C Web of Things](https://www.w3.org/WoT/) and Semantic Web and pondering on how to bring it to [hololinked](https://github.com/VigneshVSV/hololinked)
-- I am trying to put together a pedagogical introduction & guide to data-acquisition which may appeal to a non-software engineer, and carry them further into networking without distracting them from their current work with hardware or science
-- I am very actively looking for web developers to work with me on my projects; if you like data-acquisition, contact me and I can propose some ideas (including independent ones from my projects) on how to benefit the user and ourselves.
 - Ask me anything about data-acquisition especially within scientific domain   
 - [![email](https://img.shields.io/badge/email%20me-brown)](mailto:vignesh.vaidyanathan@hololinked.dev) [![ways to contact me](https://img.shields.io/badge/ways_to_contact_me-brown)](https://hololinked.dev/contact)
+- I am trying to put together a pedagogical introduction & guide to data-acquisition which may appeal to a non-software engineer, and carry them further into networking without distracting them from their current work with hardware or science
+- I am very actively looking for web developers to work with me on my projects; if you like data-acquisition, contact me and I can propose some ideas (including independent ones from my projects) on how to benefit the user and ourselves.
 
 ## [Consider sponsoring my work](#sponsor)
 
@@ -22,8 +22,8 @@ consider donating (or have your group donate) at least 1€ (or 1$ or ₹100). O
 this package & the associated tools can be developed and remain for free in open source in the long term so that your software doesn't get outdated. The further activities that are planned are:
 
 - Tangible documentation with a pedagogical technique of writing so that students, scientists & engineers in labs can learn this independently (apart from package docs)
-- Device or Thing Catalog of existing implementations of vendor specific hardware (like camera from X manufacturuer) so that you can just copy code (will be hosted in the [project website](https://hololinked.dev/)) or pip install
-- Support for Thing directories where you can store information about an existing Thing, like a phone book or map of "what is running where?" (There are already projects and conceptual ideas out there which will be adapted)
+- Device or Thing Catalog of existing implementations of vendor specific hardware (like camera from X manufacturuer) so that you can just copy code or pip install (this will be hosted in the [project website](https://hololinked.dev/))
+- Support for Thing directories where you can store information about an existing Thing, like a phone book or map of "what is running where?" (There are already projects from web of things community and conceptual ideas out there which will be adapted)
 - PyQt based admin panels for those who dont wish to use web previews like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
 - Remote Start/Stop script automation tool (both PyQt and JavaScript based)
 - Smartphone app to control your things in a generic fashion, kind of like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
@@ -34,7 +34,8 @@ These are just a few (there are some more). I have decent experience in scientif
 
 ## Other
 
-I studied B.Sc. Electrical Engineering and M.Sc. Applied Physics, I have tangible interests and growing knowledge outside of software as well, especially optics, laser physics, QM, statistical math, digital electronics & power electronics. But I usually like to use them to make scientific or engineering software, this is why I work in data-acquisition.  
+I studied B.Sc. Electrical Engineering and M.Sc. Applied Physics, I have tangible interests outside of software as well, especially optics, laser physics, QM, statistical math, digital electronics & power electronics. 
+But I usually like to use them to make scientific or engineering software, this is why I work in data-acquisition.  
 
 I have worked at LMU's Centre for Advanced Laser Applications on large system scientific automation & data-acquisition from March 2022 till Dec 2024. Some of my work & my colleagues' work was made open and its available here: [gitlab LRZ CALA Public](https://gitlab.lrz.de/cala-public). 
 Before this, I also did large system automation and data-acquisition during my two year project at Neyveli Lignite Corporation India from 2015-2017. 
