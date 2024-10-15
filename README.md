@@ -8,11 +8,9 @@ Have a look at my "simple-to-use-yet-sophisticated-enough" server side data-acqu
 
 Currently:
 - I am working on [hololinked](https://github.com/VigneshVSV/hololinked), stabilising it & augmenting it with all the tools necessary to thoroughly carry out data-acquisition
-- I am learning [W3C Web of Things](https://www.w3.org/WoT/) and Semantic Web and pondering on how to bring it to [hololinked](https://github.com/VigneshVSV/hololinked)
+- I am learning [W3C Web of Things](https://www.w3.org/WoT/) and Semantic Web and pondering on how to bring WoT to [hololinked](https://github.com/VigneshVSV/hololinked)
 - Ask me anything about data-acquisition especially within scientific domain   
 - [![email](https://img.shields.io/badge/email%20me-brown)](mailto:vignesh.vaidyanathan@hololinked.dev) [![ways to contact me](https://img.shields.io/badge/ways_to_contact_me-brown)](https://hololinked.dev/contact)
-- I am trying to put together a pedagogical introduction & guide to data-acquisition which may appeal to a non-software engineer, and carry them further into networking without distracting them from their current work with hardware or science
-- I am very actively looking for web developers to work with me on my projects; if you like data-acquisition, contact me and I can propose some ideas (including independent ones from my projects) on how to benefit the user and ourselves.
 
 ## [Consider sponsoring my work](#sponsor)
 
@@ -23,9 +21,9 @@ this package & the associated tools can be developed and remain for free in open
 
 - Tangible documentation with a pedagogical technique of writing so that students, scientists & engineers in labs can learn this independently (apart from package docs)
 - Device or Thing Catalog of existing implementations of vendor specific hardware (like camera from X manufacturuer) so that you can just copy code or pip install (this will be hosted in the [project website](https://hololinked.dev/))
-- Support for Thing directories where you can store information about an existing Thing, like a phone book or map of "what is running where?" (There are already projects from web of things community and conceptual ideas out there which will be adapted)
-- PyQt based admin panels for those who dont wish to use web previews like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
+- Support for Thing directories where you can store information about an existing Thing, like a phone book or map of "what is running where?"
 - Remote Start/Stop script automation tool (both PyQt and JavaScript based)
+- PyQt based admin panels for those who dont wish to use web previews like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
 - Smartphone app to control your things in a generic fashion, kind of like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
 
 These are just a few (there are some more). I have decent experience in scientific large system automation to carry out these projects with much ease & clarity. 
