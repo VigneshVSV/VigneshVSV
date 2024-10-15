@@ -27,6 +27,7 @@ this package & the associated tools can be developed and remain for free in open
 - Smartphone app to control your things in a generic fashion, kind of like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
 
 These are just a few (there are some more). I have decent experience in scientific large system automation to carry out these projects with much ease & clarity. 
+I am also looking for Python and React developers who can contribute to this field. 
 
 ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshvsv&show_icons=true&theme=transparent&custom_title=stats)
 
