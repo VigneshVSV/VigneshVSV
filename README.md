@@ -4,7 +4,7 @@
 
 ### I like to extend existing web technologies to data-acquisition, especially in scientific domain
 
-Have a look at my "simple-to-use-yet-sophisticated-enough" server side data-acquisition/IoT runtime [hololinked](https://github.com/VigneshVSV/hololinked), hololinked as in "instrumentation that can be connected to the internet and use web technologies in a wholesome and systematic way"
+Have a look at my "simple-to-use-yet-sophisticated-enough" server side data-acquisition/IoT runtime [hololinked](https://github.com/VigneshVSV/hololinked), hololinked as in "instrumentation that can be connected to the internet in a systematic way"
 
 Currently:
 - I am working on [hololinked](https://github.com/VigneshVSV/hololinked), stabilising it & augmenting it with all the tools necessary to thoroughly carry out data-acquisition
