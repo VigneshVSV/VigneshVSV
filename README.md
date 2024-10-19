@@ -25,6 +25,7 @@ this package & the associated tools can be developed and remain for free in open
 - Remote Start/Stop script automation tool (both PyQt and JavaScript based)
 - PyQt based admin panels for those who dont wish to use web previews like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel) 
 - Smartphone app to control your things in a generic fashion, kind of like the [helper GUI](https://github.com/VigneshVSV/thing-control-panel)
+- JSON viewer with HTTP SSE support
 - Drag & Drop quick GUI/Visualization builder in material design
 
 ##### I am also looking for Python and React developers who can contribute to this. If you are interested and have time to kill, you can get in touch with me.
