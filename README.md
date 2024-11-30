@@ -2,7 +2,7 @@
 
 # Data-Acquisition Junkie & Web Developer
 
-### I like to extend existing web technologies to data-acquisition, especially in scientific domain
+### I like to use web technologies in data-acquisition, especially in scientific domain
 
 Have a look at my "simple-to-use-yet-sophisticated-enough" server side data-acquisition/IoT runtime [hololinked](https://github.com/VigneshVSV/hololinked), hololinked as in "instrumentation that can be connected to the internet in a systematic way"
 
